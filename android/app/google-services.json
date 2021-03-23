@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "391188164320",
-    "project_id": "meena-supplies",
-    "storage_bucket": "meena-supplies.appspot.com"
+    "project_number": "514720794592",
+    "project_id": "packing-app-90b1c",
+    "storage_bucket": "packing-app-90b1c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:391188164320:android:96345af82d3e6f73c4ea85",
+        "mobilesdk_app_id": "1:514720794592:android:0d02d6f8aee3e8da074d85",
         "android_client_info": {
           "package_name": "com.example.meena_supplies"
         }
       },
       "oauth_client": [
         {
-          "client_id": "391188164320-s5odshsteuu3s65rmbmq5o4r5aph4j55.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.meena_supplies",
-            "certificate_hash": "510fad0f757193fb4dfc36359bfa67db88d97517"
-          }
-        },
-        {
-          "client_id": "391188164320-amkep9kqa4ib6gutqv2i8f2cvp6b4bnr.apps.googleusercontent.com",
+          "client_id": "514720794592-vak6l7tvb3qa27vpjtk4k08but0ah3k4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA8WPAfpqLqcckqA-cipgt85euXyCugqo8"
+          "current_key": "AIzaSyCVfj8G3b6--S2K6oslhsXgfTCFBP4PDLE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "391188164320-amkep9kqa4ib6gutqv2i8f2cvp6b4bnr.apps.googleusercontent.com",
+              "client_id": "514720794592-vak6l7tvb3qa27vpjtk4k08but0ah3k4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
